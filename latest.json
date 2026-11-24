@@ -1,10 +1,8 @@
 {
-  "version": "1.5.0",
-  "fecha": "2026-11-23",
-  "descarga": "https://github.com/Sleepy3145/kiru-actualizaciones/releases/download/v1.5.0/Kiru-Setup-1.5.0.exe",
+  "version": "1.5.1",
+  "fecha": "2026-11-24",
+  "descarga": "https://github.com/Sleepy3145/kiru-actualizaciones/releases/download/v1.5.1/Kiru-Setup-1.5.1.exe",
   "novedades": [
-    "firma electronica",
-    "ACESS",
-    "Formulario033"
+    "Actualizacion de datos"
   ]
 }
