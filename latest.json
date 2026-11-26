@@ -1,8 +1,8 @@
 {
-  "version": "1.5.1",
-  "fecha": "2026-11-24",
-  "descarga": "https://github.com/Sleepy3145/kiru-actualizaciones/releases/download/v1.5.1/Kiru-Setup-1.5.1.exe",
+  "version": "1.6.0",
+  "fecha": "2026-11-25",
+  "descarga": "https://github.com/Sleepy3145/kiru-actualizaciones/releases/download/v1.6.0/Kiru-Setup-1.6.0.exe",
   "novedades": [
-    "Actualizacion de datos"
+    "Solucion a problemas y cambios esteticos"
   ]
 }
